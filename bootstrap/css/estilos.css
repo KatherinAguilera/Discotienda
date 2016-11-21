@@ -1,0 +1,86 @@
+body
+{
+  background-color:rgba(242,246,248,1);
+}
+.boton
+{
+background-color: #ffb400;
+ padding: 10px;
+ border-bottom: 6px solid #e49100;
+ border-radius: 5px;
+ color: #000000;
+ -webkit-border-radius: 5px;
+ margin-left: 300px;
+ transition: all 500ms linear;
+ width: 25%;
+ font-size: 18px;
+ font-weight: bold;
+}
+.boton:hover {
+    background-color: #e49100;
+    border-top: 6px solid #ffb400;
+    border-bottom: 0 none;
+}
+.boton1
+{
+background-color: #ffb400;
+ padding: 10px;
+ border-bottom: 6px solid #e49100;
+ border-radius: 5px;
+ color: #000000;
+ -webkit-border-radius: 5px;
+ transition: all 500ms linear;
+ width: 25%;
+ font-size: 14px;
+ font-weight: bold;
+
+}
+.boton1:hover {
+    background-color: #e49100;
+    border-top: 6px solid #ffb400;
+    border-bottom: 0 none;
+}
+h2
+{
+  color: #ff920a;
+  position: center;
+}
+img
+{
+   width: 100%;
+   margin-top:;
+}
+.navbar
+{
+  background: #ff920a ;
+  font-size: 20px;
+}
+.navbar-brand
+ {
+
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  font-family:monospace;
+  letter-spacing: 8px;
+}
+
+ .navbar-nav .reg:hover{
+     font-size: 21px;
+     transition: all 500ms linear;
+     background-color: #feb645;
+     border-radius: 10px;
+
+ }
+ .navbar-nav .ingr:hover{
+     font-size: 21px;
+     transition: all 500ms linear;
+     background-color: #fFFFCc;
+     border-radius: 10px;
+ }
+table
+{
+  border-radius: 10px;
+  background-color: #fFFfF3;
+
+}
